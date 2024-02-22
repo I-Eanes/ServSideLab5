@@ -5,7 +5,7 @@ TL;DR
 3. It takes to long to load each use of BreedGetter - moved the load-in of all breeds to the front, this creates a rough start-up time but all methods are very quick within the program.
 4. I did decide to add the additional breed-search functionality - It created no issues minus a bit of standard troubleshooting and typo-fixing, this is just of note.
 
-
+**Full Info*:*
 **I made the poor choice in judgement of starting this lab a little late, as such I was on a bit of a time crunch to finish it.
 Nonetheless, here's how it went:**
 - I spent 20 minutes trying to figure out just how to access the API.
